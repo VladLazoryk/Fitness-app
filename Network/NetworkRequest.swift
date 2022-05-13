@@ -9,8 +9,8 @@ class NetworkRequest {
     func requestData(completion: @escaping (Result <Data, Error>) -> Void) {
         
         let key = ""
-        let latitude = 52.7316900
-        let longitude = 41.4432600
+        let latitude = 
+        let longitude = 
         
         let urlString = "https://api.darksky.net/forecast/\(key)/\(latitude),\(longitude)"
         guard let url = URL(string: urlString) else {return}
