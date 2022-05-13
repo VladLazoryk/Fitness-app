@@ -5,7 +5,7 @@
 - ScrollView
 - AlertController (+custom alert)
 - DatePicker
-- UIKit (label, button, segmentedControll, Switch, Slider, UIView, UIImageView)
+- UIKit 
 - JSON 
 - Realm
 - TabBarController (+ NavigatonBar)
