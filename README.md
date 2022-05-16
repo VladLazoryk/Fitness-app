@@ -10,7 +10,6 @@
 - Realm
 - TabBarController (+ NavigatonBar)
 
-
 ![photo5422623883577637862](https://user-images.githubusercontent.com/50370915/166110044-90517818-492c-47d2-a442-98dfcf4757e0.jpg)![photo5422623883577637863](https://user-images.githubusercontent.com/50370915/166110071-2fa1b877-e5e0-4d0e-a4f5-485b64f907a5.jpg)![photo5422623883577637864](https://user-images.githubusercontent.com/50370915/166110074-381f5e4f-90ec-4c3c-a9b0-c97d0c858882.jpg)
 
 
